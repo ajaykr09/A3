@@ -1,2 +1,2 @@
 #Module 3
-##[solution](./index.html)
+##[solution](https://ajaykr09.github.io/A3/)
